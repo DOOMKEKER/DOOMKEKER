@@ -2,5 +2,5 @@
 ______________
 ### TODO
 
-1. [ ] VScode
+1. [ ] VScode (battery saver extension)
 2. [ ] End with C++
